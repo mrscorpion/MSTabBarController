@@ -1,0 +1,13 @@
+//
+//  UnscrollTabController.h
+//  MSTabBarController
+//
+//  Created by mr.scorpion on 16/5/25.
+//  Copyright © 2016年 MSTabBarController. All rights reserved.
+//
+
+#import "MSTabBarController.h"
+
+@interface UnscrollTabController : MSTabBarController
+
+@end
